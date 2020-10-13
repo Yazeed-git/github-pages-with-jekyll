@@ -4,4 +4,4 @@
 
 #####The future of individuals like us
 
-theme: minima
+######theme: minima
