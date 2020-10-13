@@ -3,3 +3,5 @@
 ###I'm glad you are here. I plan to talk about ...
 
 #####The future of individuals like us
+
+theme: minima
